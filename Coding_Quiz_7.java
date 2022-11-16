@@ -1,5 +1,4 @@
-import java.util.*;
-
+// https://euler.synap.co.kr/quiz=7
 public class Coding_Quiz_7 {
     public static void main(String[] args) {
         int[][] big = new int[2540160][10];

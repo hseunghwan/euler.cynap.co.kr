@@ -1,8 +1,13 @@
 /**
- * 몰라 이상해 못풀겟어 45000아닌가?
+ * 몰라 이상해 못풀겟어 450000아닌가?
  */
 public class Coding_Quiz_10 {
+    public static int howMany(int n){ //n: 지불할 금액
+        int result = 0;
+        int[] pay = {1,5,10,50,100,500,1000,5000,10000,50000};
 
+        return result;
+    }
     public static void main(String[] args) {
         /*
          * 1

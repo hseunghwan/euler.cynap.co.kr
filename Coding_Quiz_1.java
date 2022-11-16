@@ -2,7 +2,7 @@ import java.util.*;
 public class Coding_Quiz_1 {
 
 
-    /*
+    /*https://euler.synap.co.kr/quiz=1
      * 자리수 계산
      * 자리 수 만큼 반복문 돌아서 각 자리수 제곱하고 제곱합 계산
      * 
