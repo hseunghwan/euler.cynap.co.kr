@@ -1,0 +1,98 @@
+{
+    // IntelliSense를 사용하여 가능한 특성에 대해 알아보세요.
+    // 기존 특성에 대한 설명을 보려면 가리킵니다.
+    // 자세한 내용을 보려면 https://go.microsoft.com/fwlink/?linkid=830387을(를) 방문하세요.
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coding_Quiz_1",
+            "request": "launch",
+            "mainClass": "Coding_Quiz_1",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coding_Quiz_10",
+            "request": "launch",
+            "mainClass": "Coding_Quiz_10",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coding_Quiz_2",
+            "request": "launch",
+            "mainClass": "Coding_Quiz_2",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coding_Quiz_7",
+            "request": "launch",
+            "mainClass": "Coding_Quiz_7",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coding_Quiz_8",
+            "request": "launch",
+            "mainClass": "Coding_Quiz_8",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coding_Quiz_9",
+            "request": "launch",
+            "mainClass": "Coding_Quiz_9",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Coding_Quiz_9_copy",
+            "request": "launch",
+            "mainClass": "Coding_Quiz_9_copy",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem_1",
+            "request": "launch",
+            "mainClass": "Problem_1",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem_21",
+            "request": "launch",
+            "mainClass": "Problem_21",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem_31",
+            "request": "launch",
+            "mainClass": "Problem_31",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch Problem_41",
+            "request": "launch",
+            "mainClass": "Problem_41",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "euler.cynap.co.kr_ae7398e0"
+        }
+    ]
+}

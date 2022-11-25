@@ -52,6 +52,8 @@ public class Coding_Quiz_7 {
             right = k[2]*10000+ k[4]*1000+ k[3]*100+ k[8]*10+ k[0] +  k[1]*100+ k[6]*10 +k[9];
             if (left == right) {
                 sum+=left;
+                System.out.println(left + " " +right);
+
             }
 
         }
